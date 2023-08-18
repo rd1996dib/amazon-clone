@@ -1,0 +1,75 @@
+h1,h2{
+    color:blue;
+}
+p1{
+    color:blueviolet;
+}
+button{
+    color:chocolate;
+    background-color: cornflowerblue;
+}
+body{
+    background-color: rgb(150, 94, 57);
+}
+h1{
+    background-color: rgb(156, 126, 131);
+}
+p2{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+h1{
+    font-weight: 900;
+
+}
+p1{
+    font-size: 50px;
+    line-height: 50px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+    border-width: 2px;
+    border-style: solid;
+    border-color: cadetblue;
+}
+div1{
+    height: 100px;
+    width:100px;
+    background-color:red ;
+    
+    
+
+}
+h3{
+    width:200px;
+    height:50px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+
+}
+div2{
+    height: 500px;
+    width: 200px;
+    background-color: chartreuse;
+    border: 2px solid brown;
+    border-radius: 25px;
+}
+div3{
+    height: 200px;
+    width: 50px;
+    background-color: darkblue;
+    padding: 25px;
+    margin: 10px;
+
+}
